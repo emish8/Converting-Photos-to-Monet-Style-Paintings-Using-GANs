@@ -16,14 +16,14 @@ There are two types pf photos:
 ### Sample Monets
 ![image](https://user-images.githubusercontent.com/83595196/226116470-1a12dd3c-f74e-4756-ad8b-9bce395968aa.png)
 
-###Sample Photos
+### Sample Photos
 ![image](https://user-images.githubusercontent.com/83595196/226116557-4ec98383-db18-4e0d-8535-823683f6fa31.png)
 
-### Visulizing Gray and RGB Channels
+### Visualizing Gray and RGB Channels
 - Monets
 ![image](https://user-images.githubusercontent.com/83595196/226116591-0dc61e00-cabc-4d55-8f9f-27bf26b19208.png)
 
--Photos
+- Photos
 ![image](https://user-images.githubusercontent.com/83595196/226116620-7fdf25f8-4694-4ef4-87d9-1358fe0452f3.png)
 
 ### Data Preprocessing CycleGAN
