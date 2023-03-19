@@ -3,7 +3,7 @@
 
 ## Dataset
 
-This is a kaggle competetion Dataset. The aim of the competetion is to convert photos to monet style paintings.
+This is a kaggle competition Dataset. The aim of the competition is to convert photos to monet style paintings. 
 https://www.kaggle.com/competitions/gan-getting-started/data?select=monet_jpg
 
 There are two types pf photos:
@@ -29,7 +29,8 @@ There are two types pf photos:
 ### Data Preprocessing CycleGAN
 
 - Adding Random Noise
-![image](https://user-images.githubusercontent.com/83595196/226116676-13b0d8eb-99b8-4b3a-aab7-e305dba669c6.png), ![image](https://user-images.githubusercontent.com/83595196/226116688-40c4a2ee-f86a-498a-9fed-b0105ba5317e.png)
+![image](https://user-images.githubusercontent.com/83595196/226116676-13b0d8eb-99b8-4b3a-aab7-e305dba669c6.png)
+![image](https://user-images.githubusercontent.com/83595196/226116688-40c4a2ee-f86a-498a-9fed-b0105ba5317e.png)
 
 - Random Flip
 -- Flipping image at random.
