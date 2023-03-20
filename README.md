@@ -1,10 +1,10 @@
-# Converting photos to Monet Style Paintings Using GANs And Neural Style Transfer
+# Converting Photos to Monet Style Paintings Using cycleGAN And Neural Style Transfer
 
 ## Problem Definition
 - Monet paintings are named after French artist Claude Monet, he was one of the  most popular Impressionist Era Artist. This project aims to convert normal photos to Monet Style paintings.
 - I have used two types of deep learning models -
 1.   CycleGANs 
-2.   Neural Style Transfe
+2.   Neural Style Transfer
 
 
 
