@@ -71,7 +71,22 @@ Training time is very less, as we use few layers of pretrained VGG19 to extract 
 - Output
 ![image](https://user-images.githubusercontent.com/83595196/226182192-7ff85ca5-b406-40a6-a2ff-8be7c1960363.png)
 
+## References
 
+CycleGAN  |  TensorFlow Core
+https://www.tensorflow.org/tutorials/generative/cyclegan
+
+Generative Adversarial Networks (GANs) - YouTube
+https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu
+
+Deep Learning 46: Unpaired Image to Image translation Network (Cycle GAN) and DiscoGAN - YouTube
+https://www.youtube.com/watch?v=nB8uVGbesZ4
+
+Neural style transfer  |  TensorFlow Core
+https://www.tensorflow.org/tutorials/generative/style_transfer#build_the_model
+
+Neural Style Transfer - YouTube
+https://www.youtube.com/playlist?list=PLBoQnSflObcmbfshq9oNs41vODgXG-608
 
 
 
