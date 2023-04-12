@@ -10,6 +10,7 @@
 
 ## Dataset
 This is a kaggle competition Dataset. The aim of the competition is to convert photos to monet style paintings. 
+
 https://www.kaggle.com/competitions/gan-getting-started/data?select=monet_jpg
 
 There are two types of photos:
@@ -20,16 +21,20 @@ There are two types of photos:
 ## Data Visualization
 
 ### Sample Monets
+
 ![image](https://user-images.githubusercontent.com/83595196/226116470-1a12dd3c-f74e-4756-ad8b-9bce395968aa.png)
 
 ### Sample Photos
+
 ![image](https://user-images.githubusercontent.com/83595196/226116557-4ec98383-db18-4e0d-8535-823683f6fa31.png)
 
 ### Visualizing Gray and RGB Channels
 - Monets
+
 ![image](https://user-images.githubusercontent.com/83595196/226116591-0dc61e00-cabc-4d55-8f9f-27bf26b19208.png)
 
 - Photos
+
 ![image](https://user-images.githubusercontent.com/83595196/226116620-7fdf25f8-4694-4ef4-87d9-1358fe0452f3.png)
 
 ### Data Preprocessing 
@@ -41,6 +46,7 @@ Test Data - Normalize
 
 
 - Adding Random Noise
+
 ![image](https://user-images.githubusercontent.com/83595196/226116676-13b0d8eb-99b8-4b3a-aab7-e305dba669c6.png)
 
 - Random Flip
@@ -69,23 +75,29 @@ Training time is very less, as we use few layers of pretrained VGG19 to extract 
 ![download (1)](https://user-images.githubusercontent.com/83595196/226182084-e40e104b-9a83-4b9f-8c65-509d4c42af88.png)
 
 - Output
+
 ![image](https://user-images.githubusercontent.com/83595196/226182192-7ff85ca5-b406-40a6-a2ff-8be7c1960363.png)
 
 ## References
 
 CycleGAN  |  TensorFlow Core
+
 https://www.tensorflow.org/tutorials/generative/cyclegan
 
 Generative Adversarial Networks (GANs) - YouTube
+
 https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu
 
 Deep Learning 46: Unpaired Image to Image translation Network (Cycle GAN) and DiscoGAN - YouTube
+
 https://www.youtube.com/watch?v=nB8uVGbesZ4
 
 Neural style transfer  |  TensorFlow Core
+
 https://www.tensorflow.org/tutorials/generative/style_transfer#build_the_model
 
 Neural Style Transfer - YouTube
+
 https://www.youtube.com/playlist?list=PLBoQnSflObcmbfshq9oNs41vODgXG-608
 
 
