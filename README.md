@@ -86,11 +86,11 @@ Sample of 190 images was taken to generate this score. The Frechet Inception Dis
 ![image](https://user-images.githubusercontent.com/83595196/236401967-3c8a96a3-af48-4e9b-a8dc-71defa3a9c18.png)
 
 
-| Model | FID score |
----------------------
-| pix2pix | 19,17,342.13 |
-| cycleGAN | 11,99,486.18 |
-| neural style transfer | 2,08,174.26 |
+| Model                  | FID score    |
+|:-----------------------|-------------:|
+| pix2pix                | 19,17,342.13 |
+| cycleGAN               | 11,99,486.18 |
+| neural style transfer  | 2,08,174.26  |
 
 
 ## Conclusion
